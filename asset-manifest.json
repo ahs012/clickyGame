@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/clickyGame/static/css/main.a3029fe5.chunk.css",
+    "main.js": "/clickyGame/static/js/main.e8931c03.chunk.js",
+    "main.js.map": "/clickyGame/static/js/main.e8931c03.chunk.js.map",
+    "runtime~main.js": "/clickyGame/static/js/runtime~main.d5f62368.js",
+    "runtime~main.js.map": "/clickyGame/static/js/runtime~main.d5f62368.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/clickyGame/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/clickyGame/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/clickyGame/index.html",
+    "precache-manifest.5f59a10bc19d35cfeb484c82866b0baf.js": "/clickyGame/precache-manifest.5f59a10bc19d35cfeb484c82866b0baf.js",
+    "service-worker.js": "/clickyGame/service-worker.js",
+    "static/css/main.a3029fe5.chunk.css.map": "/clickyGame/static/css/main.a3029fe5.chunk.css.map",
+    "static/media/hollowBoss.png": "/clickyGame/static/media/hollowBoss.78e564e5.png",
+    "static/media/hollowHat.png": "/clickyGame/static/media/hollowHat.c0c17425.png",
+    "static/media/hollowHornet.png": "/clickyGame/static/media/hollowHornet.009f83fa.png",
+    "static/media/hollowKnight.png": "/clickyGame/static/media/hollowKnight.b8b65aa7.png",
+    "static/media/hollowLace.png": "/clickyGame/static/media/hollowLace.2ec6a771.png",
+    "static/media/hollowMato.png": "/clickyGame/static/media/hollowMato.9a60a831.png",
+    "static/media/hollowMerchant.png": "/clickyGame/static/media/hollowMerchant.1897d213.png",
+    "static/media/hollowQuirrel.png": "/clickyGame/static/media/hollowQuirrel.ec741dc2.png",
+    "static/media/hollowSentry.png": "/clickyGame/static/media/hollowSentry.6cf28563.png",
+    "static/media/hollowSilk.png": "/clickyGame/static/media/hollowSilk.46045af4.png",
+    "static/media/hollowZaza.png": "/clickyGame/static/media/hollowZaza.c663f3c7.png",
+    "static/media/hollowZote.png": "/clickyGame/static/media/hollowZote.7b8d3406.png"
+  }
+}
