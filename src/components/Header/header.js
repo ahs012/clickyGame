@@ -1,13 +1,14 @@
 import React from 'react';
 import './style.css'
 
-function Header(){
+function Header(props){
     return(
         <div className="container-fluid">
             <div className="jumbotron">
-                <h1>Welcome to Clicky-Game!</h1> 
-                <h3>Click on the Hollow Knight Characters to earn points, but don't click any of them twice or you LOSE!</h3>                
-                <p>Good Luck Have Fun!</p> 
+                <h1>Welcome to the Hollow Knight Clicky-Game!</h1>
+                <hr></hr>
+                <h2>{props.message}</h2>
+                <h3>Score {props.score}| High Score {props.highScore}</h3>
             </div>
         </div>
     )
